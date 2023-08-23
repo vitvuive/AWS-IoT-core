@@ -146,4 +146,4 @@ The device endpoints use X.509 certificates or AWS IAM users with credentials to
 
 - **Learn more**
 
-For more information about configuring and connecting wireless devices, see AWS IoT Core for LoRaWAN.
+For more information about configuring and connecting wireless devices, see[ AWS IoT Core for LoRaWAN](https://docs.aws.amazon.com/iot/latest/developerguide/connect-iot-lorawan.html).
